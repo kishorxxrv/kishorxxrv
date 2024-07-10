@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorxxrv&label=Profile%20views&color=0e75b6&style=flat" alt="kishorxxrv" /> </p>
 
-- 🌱 I’m currently learning **DSA, React, Django , Oops langs**
+- 🌱 I’m currently learning **Blockchain/web3, DSA, React, Django**
 
-- 💬 Ask me about **react , about full stack development**
+- 💬 Ask me about **about full/mern stack development/ about blockchain**
 
 - 📫 How to reach me **kishorkarkee948@gmail.com**
 
