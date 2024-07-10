@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kishor Karki</h1>
-<h3 align="center">A passionate Software Engineer from Nepal.</h3>
+<h3 align="center">A passionate Software Developer from Nepal.</h3>
 
 <img align="right" alt ="coding"  width = "400px"  src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kishorkarkee948@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
